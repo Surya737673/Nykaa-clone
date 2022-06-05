@@ -1,8 +1,8 @@
-# [Nykaa-Clone](https://rohit753.github.io/Naykaa-Clone/)
+# Nykaa-Clone
 
 Home page 
 <br/>
-<img src="https://miro.medium.com/max/1400/0*fvNdTeNzpw2cVrLX"></img>
+<img src="https://www.mohitecommerce.com/wp-content/uploads/2022/03/sell-on-nykaa.jpg"></img>
  <br/>
 Signup
  <br/>
